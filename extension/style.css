@@ -1,0 +1,37 @@
+
+#title-heading{
+  text-align: center;
+  font-size: 62pt;
+  /* padding-top: 5%; */
+  color: rgb(219, 120, 184);
+  font-family: 'Patua One', cursive;
+  /* font-family: 'Abril Fatface', cursive; */
+}
+
+h3{
+  text-align: center;
+  font-size: 22pt;
+  /* padding-top: 5%; */
+  color: rgb(216, 166, 199);
+  font-family: 'Patua One', cursive;
+  /* font-family: 'Abril Fatface', cursive; */
+}
+
+#kanji-text{
+  text-align: center;
+  font-size: 100pt;
+  /* padding-top: 5%; */
+  padding: 10px;
+  color: rgb(81, 83, 86);
+  font-family: 'Patua One', cursive;
+  /* font-family: 'Abril Fatface', cursive; */
+}
+
+#kanji-input{
+  text-align: center;
+  padding: 10px;
+  background-color: transparent;
+  border: 0;
+  color: gray;
+  border-bottom: 1.5px solid #ccc;
+}
